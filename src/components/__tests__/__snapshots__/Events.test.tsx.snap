@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Events Test Suite should render table correctly 1`] = `
+<table
+  aria-label="custom pagination table"
+  class="sc-dkPtyc geOuGr"
+>
+  <thead>
+    <tr
+      role="row"
+    >
+      <td
+        colspan="1"
+        role="columnheader"
+        style="min-width: 0;"
+      >
+        <p
+          class="sc-bdvvaa bRgpcG"
+          color="black"
+        >
+          ID
+        </p>
+      </td>
+      <td
+        colspan="1"
+        role="columnheader"
+        style="min-width: 0;"
+      >
+        <p
+          class="sc-bdvvaa bRgpcG"
+          color="black"
+        >
+          Care Giver
+        </p>
+      </td>
+      <td
+        colspan="1"
+        role="columnheader"
+        style="min-width: 0;"
+      >
+        <p
+          class="sc-bdvvaa bRgpcG"
+          color="black"
+        >
+          Recipient
+        </p>
+      </td>
+      <td
+        colspan="1"
+        role="columnheader"
+        style="min-width: 0;"
+      >
+        <p
+          class="sc-bdvvaa bRgpcG"
+          color="black"
+        >
+          Event
+        </p>
+      </td>
+      <td
+        colspan="1"
+        role="columnheader"
+        style="min-width: 0;"
+      >
+        <p
+          class="sc-bdvvaa bRgpcG"
+          color="black"
+        >
+          Date
+        </p>
+      </td>
+    </tr>
+  </thead>
+  <tbody />
+</table>
+`;

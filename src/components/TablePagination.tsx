@@ -1,7 +1,7 @@
-import { NavigateBefore, NavigateNext } from '@material-ui/icons';
-import styled from 'styled-components';
-import { Typography } from './Typography';
-import React from 'react';
+import { NavigateBefore, NavigateNext } from "@material-ui/icons";
+import styled from "styled-components";
+import { Typography } from "./Typography";
+
 const PaginationContainer = styled.div`
   display: flex;
   align-items: center;
